@@ -12,7 +12,7 @@ You are a user.
 
 One day, as usual, you log onto your computer to access the modern marvel we call the internet. 
 
-You open a browser, perhaps Chrome, Firefox, or another, and type in a web address—maybe your favorite site, YouTube, to watch [smoljames](https://www.youtube.com/smoljames). In this moment, you become **A USER**.
+You open a browser, perhaps Chrome, Firefox, or another, and type in a web address—maybe your favorite site, YouTube. In this moment, you become **A USER**.
 
 You are a user who uses things. 
 
@@ -20,7 +20,7 @@ And your browser is referred to as the **CLIENT**.
 
 More generally, the client is any medium through which you interact the internet. A videogame per say would also be an acceptable client.
 
-And the [Smoljames Channel](https://www.youtube.com/smoljames), or any other website that loads up in your browser is called the **FRONTEND**. The frontend is simply the visible and tangible interface the user can interact with.
+And the website that loads up in your browser is called the **FRONTEND**. The frontend is simply the visible and tangible interface the user can interact with.
 
 ### In Summary
 
