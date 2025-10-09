@@ -19,3 +19,9 @@ EXPOSE 5003
 
 #Define the command to run your application
 CMD ["node", "./src/server.js"]
+
+
+################################################
+# run in terminal
+# npx prisma generate
+# to generate config file
